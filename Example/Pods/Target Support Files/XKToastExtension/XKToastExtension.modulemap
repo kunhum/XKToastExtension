@@ -1,0 +1,6 @@
+module XKToastExtension {
+  umbrella header "XKToastExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

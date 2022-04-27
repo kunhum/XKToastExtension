@@ -1,0 +1,6 @@
+framework module Pods_XKToastExtension_Tests {
+  umbrella header "Pods-XKToastExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_XKToastExtension_Example {
+  umbrella header "Pods-XKToastExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

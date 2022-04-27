@@ -1,0 +1,23 @@
+PODS:
+  - Toast-Swift (5.0.1)
+  - XKToastExtension (0.0.1):
+    - Toast-Swift (= 5.0.1)
+
+DEPENDENCIES:
+  - XKToastExtension (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  XKToastExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  XKToastExtension: 938a55d36ddbdaadb83d1c627563bd87ec39251c
+
+PODFILE CHECKSUM: 4d535a79115ae01b167ece615f566a2faa631bc4
+
+COCOAPODS: 1.11.3

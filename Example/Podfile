@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'XKToastExtension_Example' do
+  pod 'XKToastExtension', :path => '../'
+
+  target 'XKToastExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
